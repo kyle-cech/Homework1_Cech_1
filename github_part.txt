@@ -1,0 +1,1 @@
+Version control keeps original and new versions separate so they don't affect each other.
